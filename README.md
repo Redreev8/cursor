@@ -20,7 +20,8 @@ timout: number,
 - box где работает курсор
 - className класс для слздания событий ```className--hidden, className--down, className--hover```
 - timout задержка событй
-- elementsHover события на блоке:
+- elementsHover key передается CSS-селектору, события на блоке:
     - enter нажатия мыши
     - move движение блока
     - leave покидание блока
+  
